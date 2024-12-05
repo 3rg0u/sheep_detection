@@ -5,7 +5,7 @@
 ##### Materials:
 * Source code of training model: [here.](/YOLOV8_Training.ipynb)
 * Source code of sheep tracking and counting: [here.](/Tracking_and_Counting.ipynb)
-* [Here is the dataset we've collected and used in our model.](https://app.roboflow.com/luc1f3r/sheep-shbsa/4)
+* Our dataset was collected on Internet and labeled using Roboflow. [See here.](https://app.roboflow.com/luc1f3r/sheep-shbsa/4)
 * The YOLOv8 model we've used was the _'YOLOv8m'_. [About YOLOv8 series.](https://docs.ultralytics.com/vi/models/yolov8/)
 
 ##### Training data:
