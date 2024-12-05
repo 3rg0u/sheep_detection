@@ -32,6 +32,6 @@
 
 
 <br><br><br>
-@authors:
-_ngo quoc anh_
+@authors:    
+_ngo quoc anh_    
 _nguyen huu vinh_
